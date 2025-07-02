@@ -27,8 +27,8 @@ from nltk.corpus import stopwords
 # Constants
 MAX_VOCAB = 10000
 MAX_LEN = 200
-MODEL_PATH = "model/sentiment_model.h5"
-TOKENIZER_PATH = "tokenizer/tokenizer.pkl"
+MODEL_PATH = "sentiment_model.h5"
+TOKENIZER_PATH = "tokenizer.pkl"
 DATASET_PATH = "IMDB Dataset.csv"
 
 # Preprocessing
