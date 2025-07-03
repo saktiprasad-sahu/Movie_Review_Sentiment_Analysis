@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-nltk
-pandas
-scikit-learn
-python-3.10
