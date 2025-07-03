@@ -19,6 +19,7 @@ This app lets you input a movie review and predicts whether the sentiment is *Po
 - Logistic Regression classifier
 - Streamlit UI
 - History logging
+- Downlode and Clear History
 
 ---
 
